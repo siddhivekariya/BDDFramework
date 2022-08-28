@@ -1,0 +1,178 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Amazon Search for a product Test Scenario",
+        "description": "",
+        "id": "amazon-search-product;amazon-search-for-a-product-test-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5938229200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is already on Login Page",
+            "match": {
+              "location": "StepDefinations.user_is_already_on_Login_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7413000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "title of login page is amazon sign page",
+            "match": {
+              "location": "StepDefinations.title_of_login_page_is_amazon_sign_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 988176700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enters username and password",
+            "match": {
+              "location": "StepDefinations.user_enters_username_and_password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2575873500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks on login button",
+            "match": {
+              "location": "StepDefinations.user_clicks_on_login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5479300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user is on Home Page",
+            "match": {
+              "location": "StepDefinations.user_is_on_Home_Page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 210508100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user select search bar and enters procductname",
+            "match": {
+              "location": "StepDefinations.user_select_search_bar_and_enters_procductname()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 233252300,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user clicks on search Icon",
+            "match": {
+              "location": "StepDefinations.user_clicks_on_search_Icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6006400,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user is on product page",
+            "match": {
+              "location": "StepDefinations.user_is_on_product_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2769933300,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user select a product",
+            "match": {
+              "location": "StepDefinations.user_select_a_product()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1834802000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user click on add to cart button",
+            "match": {
+              "location": "StepDefinations.user_click_on_add_to_cart_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5721400,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user is on added to cart page",
+            "match": {
+              "location": "StepDefinations.user_is_on_added_to_cart_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2287244400,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user click on procced to check out button",
+            "match": {
+              "location": "StepDefinations.user_click_on_procced_to_check_out_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7442100,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user is on checkout page",
+            "match": {
+              "location": "StepDefinations.user_is_on_checkout_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Amazon Search product",
+    "description": "",
+    "id": "amazon-search-product",
+    "keyword": "Feature",
+    "uri": "C:/Users/vekar/Desktop/Java/Selenium_workspace/BDDCucucmberProject/src/test/java/features/AddToCartAndCheckout.feature"
+  }
+]

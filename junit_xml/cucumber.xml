@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="16.870082">
+    <testcase classname="Amazon Search product" name="Amazon Search for a product Test Scenario" time="16.870082">
+        <system-out><![CDATA[Given user is already on Login Page.........................................passed
+When title of login page is amazon sign page................................passed
+Then user enters username and password......................................passed
+Then user clicks on login button............................................passed
+Then user is on Home Page...................................................passed
+When user select search bar and enters procductname.........................passed
+And user clicks on search Icon..............................................passed
+Then user is on product page................................................passed
+Then user select a product..................................................passed
+And user click on add to cart button........................................passed
+Then user is on added to cart page..........................................passed
+When user click on procced to check out button..............................passed
+Then user is on checkout page...............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
